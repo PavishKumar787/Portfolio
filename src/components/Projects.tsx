@@ -5,9 +5,17 @@ const Projects = () => {
   const projects = [
     {
       title: "Smart Campus Assistant",
-      description: "An intelligent campus management system with real-time features, secure authentication, and a modern dashboard for students and administrators.",
-      tech: ["React", "FastAPI", "MongoDB", "JWT"],
+      description: "A full-stack AI-powered campus assistant platform built to improve campus digital services with secure access and scalable architecture.",
+      tech: ["React", "FastAPI", "MongoDB", "TailwindCSS", "JWT"],
       github: "https://github.com/PavishKumar787/smart-campus-assisstant",
+      live: null,
+      featured: true,
+    },
+    {
+      title: "Intelligent Home Reminder and Security System",
+      description: "An AI-based intelligent home monitoring system using computer vision for real-time safety alerts and reminders with a live video dashboard.",
+      tech: ["Python", "OpenCV", "MediaPipe", "FastAPI", "React", "TailwindCSS"],
+      github: "https://github.com/PavishKumar787/Intelligent-Home-Reminder-Security-Device",
       live: null,
       featured: true,
     },

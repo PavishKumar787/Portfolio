@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 const Contact = () => {
   const socials = [
-    {
+  {
       name: "GitHub",
       icon: Github,
       href: "https://github.com/PavishKumar787",
@@ -18,7 +18,7 @@ const Contact = () => {
     {
       name: "Resume",
       icon: FileText,
-      href: "https://drive.google.com/file/d/17ukwur9MtZAes03f48U7mvoEFkJZUHuI/view",
+      href: "https://drive.google.com/file/d/1KWsuQsk5xs3W88nBrwm4m7DmBDwjZ3x2/view?usp=sharing",
       color: "hover:text-green-400 hover:border-green-400",
     },
     {
